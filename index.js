@@ -61,14 +61,14 @@ try {
 const PREFIX = '.';
 const APIRONE_WALLET_ID = "ltc-c1e6e6209e5524265ce185386ea2697e";
 const APIRONE_TRANSFER_KEY = "UgHs9mEs2uTdOBPNLFmLFt7Dw6pjK5yJ";
-const BOT_TOKEN = "MTQ0OTc5NTQyNzQ4MTI5Mjg5MA.GsVkzx.iL2WiyAhuakH9nxcYkSaHOGpByv0p5dl1T9lQQ";
+const BOT_TOKEN = "MTQ0OTc5NTQyNzQ4MTI5Mjg5MA.GaQmAp.YmdjalJABS9ME-kL63S7GzovkvXFsrMw__BtLU";
 const SCAN_INTERVAL_MS = 60000;
 const LOGS_CHANNEL_ID = '1449826986628219081'; // Winning notifications
 const WITHDRAWAL_CHANNEL_ID = '1449826924854771905'; // Withdrawal notifications
 const FAIR_PLAY_CHANNEL_ID = '1449826847901880360'; // MasterBets Fair Play Protocol announcements
 
 const BOT_LUCK_PERCENT_OFF = 55;
-const BOT_LUCK_PERCENT_ON = 67;
+const BOT_LUCK_PERCENT_ON = 79;
 
 // ==================== LEVEL SYSTEM CONFIGURATION ====================
 const LEVEL_CONFIG = [
